@@ -8,6 +8,9 @@ DS Meta é uma aplicação full stack web feita durante a semana Spring React, e
 
 O projeto é um aplicativo de pesquisa de vendas por data, com envio de SMS sobre informações dos vendedores como nome, visitas e vendas efetivadas.
 
+## Layout
+![Web 1](https://github.com/CarlosDaniel396/dsmeta/blob/main/frontend/src/assets/img/dsmeta-layout.png)
+
 # Tecnologias utilizadas
 ## Back end
 
