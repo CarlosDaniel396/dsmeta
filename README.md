@@ -6,7 +6,7 @@ https://dsmeta-carlos.netlify.app
 
 DS Meta é uma aplicação full stack web feita durante a semana Spring React, evento organizado pela DevSuperior.
 
-O projeto é um aplicativo de pesquisa de vendas por data, com envio de SMS sobre informações dos vendedores como nome, visitas e vendas efetivadas.
+Sistema de pesquisa de vendas por data, com envio de SMS sobre informações dos vendedores como: nome e vendas efetivadas.
 
 ## Layout
 ![Web 1](https://github.com/CarlosDaniel396/dsmeta/blob/main/frontend/src/assets/img/dsmeta-layout.png)
