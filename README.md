@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-https://dsmeta-carlos.netlify.app/
+https://dsmeta-carlos.netlify.app
 
 DS Meta é uma aplicação full stack web feita durante a semana Spring React, evento organizado pela DevSuperior.
 
